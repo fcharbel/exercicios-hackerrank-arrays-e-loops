@@ -15,3 +15,19 @@ A entrada será sempre um array contendo apenas números inteiros e positivos re
 ### Output Format
 
 Imprima na tela apenas um número que representa o total que deve ser pago pelo cliente (aplicando a promoção quando fizer sentido, claro).
+
+### Sample Input 0
+
+`100 500 100 200 50`
+
+### Sample Output 0
+
+`900`
+
+### Sample Input 1
+
+`100 100 100 50`
+
+### Sample Output 1
+
+`350`

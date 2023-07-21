@@ -19,3 +19,11 @@ A entrada será sempre uma string representando um nome corrompido com alguns do
 ### Output Format
 
 A saída deverá ser sempre uma string representando o nome purificado sem os seguinte caracteres especiais !@#$%&\*().
+
+### Sample Input 0
+
+`*Canis %lupus )familiaris`
+
+### Sample Output 0
+
+`Canis lupus familiaris`

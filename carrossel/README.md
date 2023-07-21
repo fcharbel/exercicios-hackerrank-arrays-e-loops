@@ -25,3 +25,35 @@ A entrada será sempre uma única variável `sequencia` que guarda sempre uma se
 ### Output Format
 
 A saída deverá ser sempre um número inteiro positivo entre 0 e 6 que indica o índice da imagem que estará sendo exibida na tela após o usuário fazer todos os cliques descritos na sequência.
+
+### Sample Input 0
+
+`>>><>`
+
+### Sample Output 0
+
+`3`
+
+### Sample Input 1
+
+`>`
+
+### Sample Output 1
+
+`1`
+
+### Sample Input 2
+
+`<`
+
+### Sample Output 2
+
+`6`
+
+### Sample Input 3
+
+`>>>>>>>>>`
+
+### Sample Output 3
+
+`2`

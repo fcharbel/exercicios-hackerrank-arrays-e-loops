@@ -25,3 +25,24 @@ A entrada terá sempre duas variáveis:
 ### Output Format
 
 Imprima na tela apenas um número inteiro contendo a quantidade de crianças que PERDERAM nessa rodada.
+
+### Sample Input 0
+
+```
+[
+  {
+    "letra": "m",
+    "palavras": [
+      "mamao",
+      "maca",
+      "melao",
+      "melancia",
+      "laranja"
+    ]
+  }
+]`
+```
+
+### Sample Output 0
+
+`1`

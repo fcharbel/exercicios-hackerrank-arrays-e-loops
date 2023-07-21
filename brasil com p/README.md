@@ -19,3 +19,42 @@ A entrada será sempre composta por três variáveis:
 Você deve imprimir na tela as palavras contidas no array de palavras que tem como primeira letra a `primeiraLetra` fornecida na entrada e a segunda letra a `segundaLetra` fornecida na entrada. Imprima uma palavra em cada linha.
 
 Caso não nenhuma palavra do array de `palavras` atenda aos requisitos, imprima na tela `NENHUMA`.
+
+### Sample Input 0
+
+```
+{
+  "primeiraLetra": "c",
+  "segundaLetra": "v",
+  "palavras": [
+    "aveia",
+    "manha",
+    "ave"
+  ]
+}
+```
+
+### Sample Output 0
+
+`NENHUMA`
+
+### Sample Input 1
+
+```
+{
+  "primeiraLetra": "a",
+  "segundaLetra": "v",
+  "palavras": [
+    "aveia",
+    "manha",
+    "ave"
+  ]
+}
+```
+
+### Sample Output 1
+
+```
+aveia
+ave
+```
